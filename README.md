@@ -8,4 +8,8 @@ Here is a screenshot of the commit:
 
 Here is a screenshot of the output of the merge:
 
-![](screenshot 2.png)
+![](screenshot_merge.png)
+
+Here is a screenshot of the PR:
+
+![](github_PR.png)
