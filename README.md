@@ -20,4 +20,10 @@ Here are three pictures of the rebase commands:
 ![](rb_2.png)
 ![](rb_3.png)
 
-Finally, the link to my copy of the EP repo is: https://github.com/sepair/ECE444-F2022-EP
+My commit to my teammate's repo is here:
+![](partner_commit.png)
+
+And the link to his repo is: https://github.com/Funinja/ECE444-F2022-Lab1
+
+The link to my copy of the EP repo is: https://github.com/sepair/ECE444-F2022-EP
+
