@@ -27,3 +27,8 @@ And the link to his repo is: https://github.com/Funinja/ECE444-F2022-Lab1
 
 The link to my copy of the EP repo is: https://github.com/sepair/ECE444-F2022-EP
 
+Screenshots of the rebases for the website changes that were made are here:
+
+![](rebase_1.png)
+![](rebase_2.png)
+
